@@ -2,9 +2,9 @@
 
 Spring boot backend of the whatsapp clone
 
-[Video tutorial](https://youtu.be/Ot7QE_gzhtA)
 
-[Angular Frontend](https://github.com/C0de-cake/whatsapp-clone-frontend)
+
+
 
 ### Key Features:
 - 💬 Real-time messaging
